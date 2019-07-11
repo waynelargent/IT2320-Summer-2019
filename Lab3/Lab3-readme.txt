@@ -6,7 +6,7 @@ They are placed where you will need to add code in order to complete the instruc
 
 Example Completed Lab
 The following video demonstrates how the html page should work when you have completed the lab. 
-https://youtu.be/7_n-LfAAhiM
+https://www.youtube.com/watch?v=9CH7_BiI_1A
 
 Follow these instructions in the HTML document
 1. Add the value of newAmount to the running total totalAmount. Tip: Use parseFloat()
